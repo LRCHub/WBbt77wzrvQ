@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Fearless",
+  "base_artist": "Lost Sky",
+  "createdAt": "2025-12-12T15:04:15.980678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fearless",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Fearless_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fearless",
+      "artist": "Ambulance Ltd",
+      "has_synced": false,
+      "path": "select/02_Fearless_Ambulance_Ltd.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fearless Vampire Killers",
+      "artist": "Bad Brains",
+      "has_synced": true,
+      "path": "select/03_Fearless_Vampire_Killers_Bad_Brains.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fearless Torch",
+      "artist": "Earthsuit",
+      "has_synced": false,
+      "path": "select/04_Fearless_Torch_Earthsuit.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fearless",
+      "artist": "Bad Company",
+      "has_synced": true,
+      "path": "select/05_Fearless_Bad_Company.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fearless",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/06_Fearless_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kingdom Of The Fearless (The Destruction Of Troy)",
+      "artist": "Virgin Steele",
+      "has_synced": true,
+      "path": "select/07_Kingdom_Of_The_Fearless_(The_Destruction_Of_Troy)_Virgin_Steele.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fearless",
+      "artist": "Hypocrisy",
+      "has_synced": false,
+      "path": "select/08_Fearless_Hypocrisy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fearless Sky",
+      "artist": "Paradise Lost",
+      "has_synced": true,
+      "path": "select/09_Fearless_Sky_Paradise_Lost.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fearless",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/10_Fearless_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fearless",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/11_Fearless_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fearless",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/12_Fearless_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fearless (feat. Nadia Rose)",
+      "artist": "Melanie C feat. Nadia Rose",
+      "has_synced": true,
+      "path": "select/13_Fearless_(feat._Nadia_Rose)_Melanie_C_feat._Nadia_Rose.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fearless",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/14_Fearless_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fearless",
+      "artist": "Fish",
+      "has_synced": true,
+      "path": "select/15_Fearless_Fish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fearless Pt. II",
+      "artist": "Lost Sky, Chris Linton",
+      "has_synced": false,
+      "path": "select/pl_01_Fearless_Pt._II_Lost_Sky,_Chris_Linton.txt"
+    }
+  ]
+}
